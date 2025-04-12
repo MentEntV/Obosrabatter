@@ -1,0 +1,60 @@
+{
+  "Sport og trening": [
+    { "navn": "KFUM Oslo", "rabatt": "50 % rabatt på billetter til hjemmekamper" },
+    { "navn": "Anton Sport", "rabatt": "20 % bonus på ordinære priser" },
+    { "navn": "Fresh Fitness", "rabatt": "Fri innmelding og 15 % rabatt" },
+    { "navn": "Lørenskog Ishockey", "rabatt": "25 % rabatt på billetter" },
+    { "navn": "LSK Kvinner", "rabatt": "50 % rabatt på billetter til hjemmekamper" }
+  ],
+  "Reise og ferie": [
+    { "navn": "DFDS", "rabatt": "15 % på MiniCruise, 10 % på båtreiser" },
+    { "navn": "Apollo", "rabatt": "500 kr rabatt per reisende" },
+    { "navn": "Strawberry", "rabatt": "15–20 % rabatt på hotell" },
+    { "navn": "Liseberg Grand Curiosa Hotel", "rabatt": "Inntil 20 % rabatt" },
+    { "navn": "NOVASOL", "rabatt": "6–10 % rabatt på feriehus" }
+  ],
+  "Økonomi og forsikring": [
+    { "navn": "OBOS-banken", "rabatt": "Gode renter og fordeler" },
+    { "navn": "Tryg Forsikring", "rabatt": "Inntil 23 % rabatt" },
+    { "navn": "Advokatfirmaet Legalis", "rabatt": "Rabattert timepris" },
+    { "navn": "Fonus Begravelsesbyrå", "rabatt": "Rabatt på kister, urner og gravsteiner" },
+    { "navn": "Kristiania nettstudier", "rabatt": "20 % rabatt på studier" }
+  ],
+  "Bolig og interiør": [
+    { "navn": "Maxbo", "rabatt": "15 % på maling og malerverktøy, 10 % øvrige varer" },
+    { "navn": "Elon", "rabatt": "12 % rabatt i nettbutikk" },
+    { "navn": "Flügger farve", "rabatt": "20 % rabatt og gratis fargekonsultasjon" },
+    { "navn": "Christiania Glasmagasin", "rabatt": "20 % rabatt i butikk og nettbutikk" },
+    { "navn": "Sector Alarm", "rabatt": "Spar opptil 5 670 kr første år" },
+    { "navn": "Kid Interiør", "rabatt": "30 % rabatt" }
+  ],
+  "Kultur og underholdning": [
+    { "navn": "ODEON Kino", "rabatt": "15 % rabatt på billetter" },
+    { "navn": "Trøndelag Teater", "rabatt": "20 % rabatt" },
+    { "navn": "Skimuseet og Holmenkollen", "rabatt": "50 % rabatt og avslag på Kollensvevet" },
+    { "navn": "Det Norske Teatret", "rabatt": "20 % rabatt" },
+    { "navn": "Norsk Folkemuseum", "rabatt": "25 % rabatt på billett, 10 % i butikk" }
+  ],
+  "Transport": [
+    { "navn": "Vianor", "rabatt": "20 % rabatt på dekkhotell" },
+    { "navn": "Avis", "rabatt": "Inntil 30 % rabatt på leiebil" },
+    { "navn": "Circle K", "rabatt": "38 øre/l drivstoff og 45 øre/kWh lading" },
+    { "navn": "Bergen Bysykkel", "rabatt": "25 % rabatt på årskort" },
+    { "navn": "Oslo Bysykkel", "rabatt": "25 % rabatt på årskort" },
+    { "navn": "Trondheim Bysykkel", "rabatt": "25 % rabatt på sesongkort" }
+  ],
+  "Abonnementstjenester": [
+    { "navn": "Talkmore", "rabatt": "10–20 % rabatt på mobilabonnement" },
+    { "navn": "Strim", "rabatt": "30 dager gratis, 10 % etterpå" }
+  ],
+  "Fornøyelsesparker": [
+    { "navn": "Gröna Lund", "rabatt": "100 kr rabatt per billett" },
+    { "navn": "Skara Sommarland", "rabatt": "100 kr rabatt per billett" },
+    { "navn": "LEGOLAND", "rabatt": "2 for 1 inngangsbillett" },
+    { "navn": "Akvariet i Bergen", "rabatt": "25 % rabatt" },
+    { "navn": "Høyt & Lavt", "rabatt": "20 % rabatt på dagskort" },
+    { "navn": "Tusenfryd", "rabatt": "20–30 % rabatt" },
+    { "navn": "Bø Sommarland", "rabatt": "15–30 % rabatt" },
+    { "navn": "Miniøya", "rabatt": "20 % rabatt" }
+  ]
+}
